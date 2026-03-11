@@ -4,11 +4,11 @@
 
 ## Files
 
-- [GNS3 Project](GNS3-Intro-12315575.gns3project)
+- [GNS3 Project]( images/GNS-Intro-12315575.gns3project)
 
 ## Network Topology
-![Network](GNS-Intro-12315575-network.png)
+![Network](images/GNS-Intro-12315575-network.png)
 
 ## Console IP Address
-![IP Address](GNS-Intro-12315575-ipaddress.png)
+![IP Address](images/GNS-Intro-12315575-ipaddress.png)
 
