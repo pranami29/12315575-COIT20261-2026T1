@@ -4,7 +4,7 @@
 Configure IPv4 addresses in a LAN with 4 Linux hosts and 1 switch using GNS3.
 
 ## Setup
-- Network: 10.1.1.0/24
+- Network: 10.10.1.0/24
 - Host 1 & 2: GNS3 GUI
 - Host 3: /etc/network/interfaces
 - Host 4: ip address command
