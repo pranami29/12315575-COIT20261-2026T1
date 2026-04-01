@@ -17,7 +17,7 @@ Checked IPs using `ip address show`.
 - Network topology screenshot
 - Host1–Host4 console screenshots
 
-![Network Diagram](Setting-IP-12315575-network.png)
+![Network Diagram](images/Setting-IP-12315575-network.png)
 ![Host1](images/Setting-IP-12315575-host1.png)
 ![Host2](images/Setting-IP-12315575-host2.png)
 ![Host3](images/Setting-IP-12315575-host3.png)
