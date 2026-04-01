@@ -34,7 +34,7 @@ Checked IPs using `ip address show`.
 Command:
 ping 10.10.1.11
 
-![Simple Ping](images/Ping-Basics-12315575-simple.png)
+![Simple Ping](images/Ping-Basics-12315575-simple.PNG)
 
 ## 2. Ping to Wrong IP
 Command:
@@ -48,7 +48,7 @@ ping -c 5 10.10.1.11
 ping -i 2 10.10.1.11
 ping -s 3 10.10.1.11
 
-![Options Ping](Ping-Basics-12315575-options.png)
-![Options Ping](Ping-Basics-12315575-options(1).png)
+![Options Ping](images/Ping-Basics-12315575-options.png)
+![Options Ping](images/Ping-Basics-12315575-options(1).png)
 
 
