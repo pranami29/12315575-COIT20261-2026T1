@@ -11,4 +11,4 @@
 ![Router](images/router.PNG)
 
 ### Routing Table
-![Routing Table](images/routerping.PNG)
+![Routing Table](images/View-Routes-12315575-ping.PNG)
