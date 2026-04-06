@@ -18,7 +18,8 @@ Checked IPs using `ip address show`.
 - GNS3 project file
 - Network topology screenshot
 - Host1–Host4 console screenshots
-
+  
+![SettIng IP](images/Setting-IP-12315575.gns3project)
 ![Network Diagram](images/Setting-IP-12315575-network.png)
 ![Host1](images/Setting-IP-12315575-host1.png)
 ![Host2](images/Setting-IP-12315575-host2.png)
