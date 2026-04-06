@@ -2,7 +2,7 @@
 
 ## Project File
 
-(images/View-Routes-12315575.gns3project)
+[GNS3 Project](images/View-Routes-12315575.gn3project)
 
 ### Network Topology
 ![Network Topology](images/View-Routes-12315575-network.PNG)
