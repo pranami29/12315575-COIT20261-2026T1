@@ -1,15 +1,14 @@
 # View Routes Network Project
 
-## Files Included
-- GNS3 Project file (.gns3project)
-  images/View-Routes-12315575.gns3project
-- Network topology screenshot
-  images/View-Routes-12315575-network.PNG
-- Ping test screenshot
-  images/host1.PNG
-  images/host2.PNG
-  images/router.PNG
-  
-- IP addresses and routing tables
-  images/routerping.PNG
+## Project Files
 
+### Network Topology
+![Network Topology](images/View-Routes-12315575-network.PNG)
+
+### Ping Tests
+![Host 1](images/host1.PNG)  
+![Host 2](images/host2.PNG)  
+![Router](images/router.PNG)
+
+### Routing Table
+![Routing Table](images/routerping.PNG)
