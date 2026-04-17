@@ -14,3 +14,29 @@
 
 ### Routing Table
 ![Routing Table](images/View-Routes-12315575-ping.PNG)
+
+# TASK 2
+
+1.	Exported project
+
+  ![exportedproject](images/OSPF-Basics-12308507.gns3project)
+  
+2.	Screenshot of the network
+
+  ![network](images/OSPF-Basics-12308507-network..png)
+  
+3.	Output  showing neigbour routers of FRR1
+
+![outputshowingneigbour](images/week4-iproute-image1.png)
+![outputshowingneigbour](images/week4-iproute-image2.png))
+
+	  
+4.	Output showing routing table for two routers.
+![routingtable](images/week4-host1.png)
+![routingtable](images/week4-host2.png)
+![routingtable](images/week4-host3.png)
+![routingtable](images/week4-router.png)
+
+6. output of traceroute:-
+
+![traceroute](images/week4-traceroute.png)
