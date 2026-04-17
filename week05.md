@@ -5,7 +5,7 @@
 
 1.	Exported project:-
 
-![exportedproject](images/Vlan-basics-12315575.gns3project)
+![Exported Project](images/Vlan-basics-12315575.gns3project)
 
 
 2.	Screenshot of the network:-
@@ -22,7 +22,7 @@
 
 1.	Exported project
 
-![Exportedproject](images/Vlan-router-12315575.gns3project)
+![Exported Project](images/Vlan-router-12315575.gns3project)
 
 
 
