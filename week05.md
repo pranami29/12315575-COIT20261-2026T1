@@ -1,6 +1,6 @@
 # WEEK 5
 
-- TASK 1
+## TASK 1
 
 
 1.	Exported project:-
@@ -18,7 +18,7 @@
 ![portsandtags](images/vlan-basics-12315575-ports1.png)
 ![portsandtags](images/vlan-basics-12315575-ports2.png)
 
-- TASK 2
+## TASK 2
 
 1.	Exported project
 
@@ -30,7 +30,7 @@
 
 
 
-![network](images/Vlan-router-12315575-gnsproject.png)
+![network](images/Vlan-router-12315575-gnsproject.PNG)
 
 
 
