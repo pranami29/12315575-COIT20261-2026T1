@@ -19,11 +19,11 @@
 
 1.	Exported project
 
-  ![exportedproject](images/OSPF-Basics-12308507.gns3project)
+  ![exportedproject](images/OSPF-Basics-12315575.gns3project)
   
 2.	Screenshot of the network
 
-  ![network](images/OSPF-Basics-12308507-network..png)
+  ![network](images/OSPF-Basics-12315575-network.png)
   
 3.	Output  showing neigbour routers of FRR1
 
