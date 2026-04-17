@@ -19,7 +19,7 @@
 
 1.	Exported project
 
-  ![exportedproject](images/OSPF-Basics-12315575.gns3project)
+  ![Exported Project](images/OSPF-Basics-12315575.gns3project)
   
 2.	Screenshot of the network
 
