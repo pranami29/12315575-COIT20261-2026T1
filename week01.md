@@ -1,6 +1,6 @@
 # WEEK 1
 
-# GNS3 Network Configuration
+## GNS3 Network Configuration
 
 **Student ID:** 12315575
 
